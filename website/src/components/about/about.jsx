@@ -159,19 +159,19 @@ export const AboutUs = () => {
                 name: "Sarah Johnson",
                 role: "Chief Executive Officer",
                 bio: "20+ years of experience in the beverage industry, leading innovation and sustainable practices.",
-                image: "/api/placeholder/200/200"
+                image: "/user.png"
               },
               {
                 name: "Michael Chen",
                 role: "Head of Product Innovation",
                 bio: "Former food scientist with a passion for creating healthy, delicious beverages.",
-                image: "/api/placeholder/200/200"
+                image: "/user.png"
               },
               {
                 name: "Emma Rodriguez",
                 role: "Sustainability Director",
                 bio: "Environmental specialist leading our initiatives for a greener future.",
-                image: "/api/placeholder/200/200"
+                image: "/user.png"
               }
             ].map((member, index) => (
               <Card key={index} className="overflow-hidden">

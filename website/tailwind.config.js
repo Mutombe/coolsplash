@@ -6,7 +6,10 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-  	extend: {
+	  extend: {
+		fontFamily: {
+			roboto: ['Geist', 'sans-serif'],
+		  },
   		borderRadius: {
   			lg: 'var(--radius)',
   			md: 'calc(var(--radius) - 2px)',

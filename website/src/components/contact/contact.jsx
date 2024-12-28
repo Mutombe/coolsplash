@@ -79,11 +79,11 @@ export const ContactUs = () => {
                           Visit Our Office
                         </h3>
                         <p className="text-gray-600">
-                          123 Beverage Lane
+                          
                           <br />
-                          Refreshment City, RC 12345
+                          Harare
                           <br />
-                          United States
+                          Zimbabwe
                         </p>
                       </div>
                     </div>
@@ -99,9 +99,9 @@ export const ContactUs = () => {
                       <div>
                         <h3 className="font-bold text-lg mb-2">Call Us</h3>
                         <p className="text-gray-600">
-                          Toll-free: +1 (855) 123-4567
+                          Toll-free: +26 (00) 123-4567
                           <br />
-                          Direct: +1 (555) 123-4567
+                          Direct: +263 78 000 0000
                         </p>
                       </div>
                     </div>
